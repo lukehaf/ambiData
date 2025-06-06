@@ -1,0 +1,62 @@
+nth_participant,student_id,results_present,survey_present,page1_age,page1_major1,page1_major2,page1_major3,page1_preMed,page1_athlete,page1_occupation1,page1_occupation2,page2_sleep,page2_freshBefore,page2_freshAfter,page3_ADHD,page3_dyslexia,page3_autism,page3_OCD,page3_anxiety,page3_otherDiagnosis,page3_otherDiagnosisText,page4_heardAboutStudy,page4_otherSourceText,page4_name,sleep,freshBefore,sleep_freshBefore,sleep_freshBefore_c
+0,f004gkb,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+1,f006b8c,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+2,f0071xp,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+3,f0079d6,True,False,,,,,,,,,,,,,,,,,,,,,,,,,
+4,f006h7g,True,False,,,,,,,,,,,,,,,,,,,,,,,,,
+5,f0056mc,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+7,f007b1k,True,False,,,,,,,,,,,,,,,,,,,,,,,,,
+8,f006bkf,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+9,f006pn4,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+10,f006v5k,True,False,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,True,True,20,Neuroscience ,Computer Science,,,,,,poor,neutral,neutral,,,,,,,,other,He is my boyfriend. ,Kalina,-1.0,0.0,-1.0,-0.6451612903225806
+14,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,True,True,45,,,,,,Forester,NGO expert,neutral,neutral,neutral,,,,,,,,other,father of the authors girlfriend,Alexander Dountchev,0.0,0.0,0.0,0.3548387096774194
+16,,True,True,41,,,,,,Travel Counselor,,poor,neutral,neutral,,,,,,,,other,Friend,Savina,-1.0,0.0,-1.0,-0.6451612903225806
+17,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+18,,True,True,42,,,,,,engineer,,poor,fatigued,fatigued,,,,,,,,other,from my niece ,Ilian,-1.0,-1.0,-2.0,-1.6451612903225805
+19,,True,True,20,Robotics and Artificial Intelligence,,,,,,,poor,fatigued,fresh,,,,,,,,other,Luke's gf sent it to me :),Ekaterina Nedeva,-1.0,-1.0,-2.0,-1.6451612903225805
+20,,True,True,21,Robotics,AI,,,,,,good,fresh,fatigued,True,,,,True,,,,from a friend,Daddy long legs,1.0,1.0,2.0,2.3548387096774195
+21,f006bbd,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+22,f00790h,True,True,19,Mathematical Data Science,Mathematics,Philosophy,,,,,neutral,fresh,fresh,,,,,,,,flierBathroom,,,0.0,1.0,1.0,1.3548387096774195
+23,f007jvc,True,True,19,Chemical engineering ,,,,,,,neutral,neutral,neutral,,,,,True,,,flierElsewhere,,,0.0,0.0,0.0,0.3548387096774194
+24,f007b5k,True,True,18,"Undecided, but intending Computer Science",,,,,,,poor,fatigued,fatigued,,,,,,,,flierBathroom,,,-1.0,-1.0,-2.0,-1.6451612903225805
+25,f0079dm,True,True,19,Economics,,,,,,,good,neutral,fresh,,,,,,,,flierBathroom,,,1.0,0.0,1.0,1.3548387096774195
+26,f0056hz,True,True,21,engineering,chemistry,,,,,,good,fresh,neutral,,,,,,,,flierBathroom,,Omar,1.0,1.0,2.0,2.3548387096774195
+27,f0055vp,True,True,21,Quantitative Social Science,Economics,Government,,,,,poor,fatigued,neutral,,,,,,,,flierBathroom,,,-1.0,-1.0,-2.0,-1.6451612903225805
+28,f004n2c,True,True,22,Earth Sciences,,,,,,,neutral,fatigued,fatigued,True,,,,True,,,flierBathroom,,,0.0,-1.0,-1.0,-0.6451612903225806
+29,f0078wv,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+30,f005697,True,True,21,Sociology major,ASCL minor,INTS minor,,,,,neutral,fatigued,neutral,,,,,,,,flierBathroom,,,0.0,-1.0,-1.0,-0.6451612903225806
+31,f004py1,True,True,22,Computer Science,,,,,,,poor,neutral,neutral,,,,,,,,other,friend told me about it,,-1.0,0.0,-1.0,-0.6451612903225806
+32,f007grq,True,True,18,undecided,,,,,,,good,neutral,neutral,,,,,,,,flierBathroom,,,1.0,0.0,1.0,1.3548387096774195
+33,f0079zk,True,True,18,Philosophy ,Japanese,,,,,,good,fresh,fresh,,,,,,,,flierBathroom,,,1.0,1.0,2.0,2.3548387096774195
+35,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+36,f0071kz,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+37,f006g40,True,True,21,Computer Science,Neuroscience,,True,True,,,neutral,fatigued,neutral,,,,,True,,,other,Forwarded from friend,,0.0,-1.0,-1.0,-0.6451612903225806
+38,f006gc7,True,True,20,Biology,Economics,,,,,,neutral,fatigued,neutral,,,,,,,,flierBathroom,,,0.0,-1.0,-1.0,-0.6451612903225806
+39,f006z6p,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+40,f00799z,True,True,18,Cognitive Science,Sociology ,"Asian Societies, Culture, Languages",,,,,poor,fatigued,neutral,,,,,,True,"Not diagnosed with anything but have shown symptoms of anxiety, OCD",flierElsewhere,,,-1.0,-1.0,-2.0,-1.6451612903225805
+41,f006bv5,True,True,20,government,French,NAIS,,,,,neutral,fatigued,neutral,,,,,,,,flierBathroom,,,0.0,-1.0,-1.0,-0.6451612903225806
+42,f007b70,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+43,f007mv1,True,True,18,Enginering ,Computer Science ,,,,,,poor,neutral,neutral,,,,,,,,flierBathroom,,,-1.0,0.0,-1.0,-0.6451612903225806
+44,f007hn2,True,True,19,Economics ,Computer Science ,,,,,,poor,fatigued,neutral,,,,,,,,flierBathroom,,,-1.0,-1.0,-2.0,-1.6451612903225805
+45,f00799b,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+46,f0070x8,True,True,20,geog ,cs ,,,,,,poor,fatigued,neutral,,,,,,,,flierBathroom,,,-1.0,-1.0,-2.0,-1.6451612903225805
+47,f007gnz,True,True,18,Econ,Spanish ,Religion,,True,,,good,fatigued,neutral,,,,,,,,flierBathroom,,Ivan Ochoa Lynch,1.0,-1.0,0.0,0.3548387096774194
+48,f006b6p,True,True,21,computer science,,,,,,,poor,neutral,neutral,True,,,,,,,flierBathroom,,Shawn Selbst,-1.0,0.0,-1.0,-0.6451612903225806
+49,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+50,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+51,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+52,f0071bb,True,True,20,earth science ,anthropology,,,,,,good,neutral,fresh,,,,,True,,,flierElsewhere,,,1.0,0.0,1.0,1.3548387096774195
+53,,True,True,25,Philosophy,,,,,Information Technology ,,good,fresh,neutral,,,,,,,,friend,,William,1.0,1.0,2.0,2.3548387096774195
+54,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+55,,True,True,20,physics,,,,,,,neutral,neutral,neutral,,,,,,,,,A friend of Luke told me,,0.0,0.0,0.0,0.3548387096774194
+56,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+57,,True,True,29,,,,,,Mechanical Engineer,,neutral,neutral,fresh,,True,,,,,,,Friend of the author,,0.0,0.0,0.0,0.3548387096774194
+58,,True,True,28,,,,,,IT,Network Engineer,good,neutral,neutral,,,,,,,,other,A friend of Luke (Ekaterina),Bogdan Alin,1.0,0.0,1.0,1.3548387096774195
+59,f006b7y,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+60,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
+61,,False,False,,,,,,,,,,,,,,,,,,,,,,,,,
