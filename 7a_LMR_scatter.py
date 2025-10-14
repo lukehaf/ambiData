@@ -1,4 +1,5 @@
 # MODEL 3: LOGISTIC MIXED REGRESSION. SCATTERPLOT.
+# type `conda activate thesis` to activate the environment which has these packages installed
 import pandas as pd
 from pymer4.models import Lmer
 import numpy as np
@@ -6,7 +7,7 @@ import matplotlib.pyplot as plt
 
 # read in accuracy.csv as a dataframe
 accuracy = pd.read_csv('3b_accuracy.csv')
-df = accuracy = accuracy[["accuracy", "names_flag", "nth_participant", "page1_age", "sleep_freshBefore", "sleep_freshBefore_c", "interf"]]
+df = accuracy = accuracy[["accuracy", "names_flag", "nth_participant", "page1_age", "sleep_freshBefore", "interf"]]
 
 ##########################################################################################
 
@@ -55,7 +56,7 @@ from scipy.stats import linregress
 
 
 # Extract values
-x = prob['names2']
+x = prob['names_avg']
 y = prob['objects_avg']
 
 # Run regression
@@ -78,13 +79,13 @@ x_fixed = np.linspace(x.min(), x.max(), 100)
 
 # 7. Scatterplot of predicted probabilities
 plt.figure(figsize=(6, 6))
-plt.scatter(prob['names2'], prob['objects_avg'], alpha=0.7)
+plt.scatter(prob['names_avg'], prob['objects_avg'], alpha=0.7)
 plt.plot(x_vals, y_vals, linestyle='--', color='grey', label='Regression line')
 plt.xlim(left=0.28, right=1.02)
 plt.ylim(bottom=0.18, top=1.02)
-plt.xlabel('Predicted P(correct | names2)', fontsize=20)
-plt.ylabel('Predicted P(correct | objects)', fontsize=20)
-plt.title('Participant‐specific Predicted Accuracy\nNames2 vs Objects1And2', fontsize=20)
+plt.xlabel('Predicted P(correct | echo)', fontsize=20)
+plt.ylabel('Predicted P(correct | stories)', fontsize=20)
+plt.title('Participant‐specific Predicted Accuracy\nEcho Task vs. Stories Task', fontsize=20)
 plt.tight_layout()
 plt.show()
 
