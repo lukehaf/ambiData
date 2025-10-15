@@ -1,0 +1,19 @@
+name: thesis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - r-base=4.3.3
+  - r-lme4
+  - r-lmertest
+  - r-emmeans
+  - r-broom
+  - r-broom.mixed
+  - r-report
+  - rpy2
+  - pip
+  - pip:
+    - pymer4==0.8.2
+    - formulae
+    - great-tables
